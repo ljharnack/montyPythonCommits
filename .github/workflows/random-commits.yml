@@ -16,8 +16,8 @@ jobs:
       contents: write
 
     env:
-      GIT_USER_NAME: "Matt Haneburger"
-      GIT_USER_EMAIL: "matthewhaneburger@gmail.com"
+      GIT_USER_NAME: "Lindsey Harnack"
+      GIT_USER_EMAIL: "ljharnack1@gmail.com"
 
     steps:
       - name: Checkout repo
