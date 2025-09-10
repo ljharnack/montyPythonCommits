@@ -1,3 +1,3 @@
 # montyPythonCommits
 
-Automated commits with MPATHG quotes!
+Automated commits with MPATHG quotes! // Deprecating this repo
