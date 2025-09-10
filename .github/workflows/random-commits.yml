@@ -1,8 +1,6 @@
 name: Monty Python Commits
 
 on:
-  schedule:
-    - cron: '0 9,21 * * *'  # Twice daily at 09:00 and 21:00 UTC
   push:
     branches:
       - dev
